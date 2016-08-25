@@ -16,11 +16,11 @@ func main() {
 		read          = true
 		count         = 0
 	)
-	// 创建一个socket
+	// 創建一個socket
 	con, err := net.Dial("tcp", remote)
-	// 发送我们的消息，一个http GET请求
+	// 發送我們的消息，一個http GET請求
 	io.WriteString(con, msg)
-	// 读取服务器的响应
+	// 讀取服務器的響應
 	for read {
 		count, err = con.Read(data)
 		read = (err == nil)
