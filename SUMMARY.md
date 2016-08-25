@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* directory
+* [directory](eBook/directory.md)
 
