@@ -7,10 +7,14 @@
 * 本書源於 Unknwon 的 《The Way to Go》簡體中文译本
 
 * 本書原作者：Ivo Balbaert
+
 * 參與繁體翻譯及編譯的人員：
+
   * @[Jaric Kuo](https://github.com/jaric) &lt;jarickuo@gmail.com&gt;
 
+
 * 參與簡體翻譯人員：
+
   * [@zhanming](https://github.com/zhanming)
   * themorecolor
   * [@everyx](https://github.com/everyx)
